@@ -1,4 +1,5 @@
 import './App.css';
+import './style.css';
 import imageLike from "./like.png"
 
 function App() {
